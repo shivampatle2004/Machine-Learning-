@@ -4,12 +4,24 @@
 
 3 - Random Forest
 
-4 - Decision Tree
+4 - XGboost
 
-5 - K-Nearest Neighbors (KNN)
+5 - Adaboost
 
-6 - Naive Bayes
+6 - Catboost 
 
-top 3 model ANSH (1,2,3)
+7 - Decision Tree
 
-bottom 3 model SHIVAM (4,5,6)
+8 - K-Nearest Neighbors (KNN)
+
+9 - Naive Bayes
+
+10 - LightGBM
+
+11 - Gradient Bosting
+
+12 - Extra Trees
+
+top 6 model ANSH ( 1 - 6 )
+
+bottom 6 model SHIVAM ( 7 - 12 )
