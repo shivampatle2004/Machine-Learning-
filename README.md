@@ -58,6 +58,7 @@ concave points_mean
 symmetry_mean
 fractal_dimension_mean
 ////////////////////////////////
+
 Standard Error Features
 radius_se
 texture_se
@@ -70,6 +71,7 @@ concave points_se
 symmetry_se
 fractal_dimension_se
 ////////////////////////////////
+
 Worst Features
 radius_worst
 texture_worst
